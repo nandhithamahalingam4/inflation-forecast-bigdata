@@ -1,0 +1,13 @@
+date,product,category,price
+2024-01-01,Rice 1kg,Food,60
+2024-01-02,Rice 1kg,Food,62
+2024-01-03,Rice 1kg,Food,65
+2024-01-01,Milk 1L,Food,50
+2024-01-02,Milk 1L,Food,52
+2024-01-03,Milk 1L,Food,55
+2024-01-01,Shampoo,Personal Care,120
+2024-01-02,Shampoo,Personal Care,125
+2024-01-03,Shampoo,Personal Care,130
+2024-01-01,Mobile Phone,Electronics,15000
+2024-01-02,Mobile Phone,Electronics,15200
+2024-01-03,Mobile Phone,Electronics,15500
