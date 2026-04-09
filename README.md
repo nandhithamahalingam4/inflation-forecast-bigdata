@@ -21,12 +21,12 @@ Traditional CPI data is delayed, but this model provides "faster and more accura
 
 
 3. Project Structure
-├── final_data.csv # Input dataset
-├── main model.py # Model training & evaluation
-├── dashboard.py # Streamlit dashboard
-├── output.csv # Predictions
-├── requirements.txt # Dependencies
-└── README.md # Project documentation
+ ├── final_data.csv # Input dataset
+ ├── main model.py # Model training & evaluation
+ ├── dashboard.py # Streamlit dashboard
+ ├── output.csv # Predictions
+ ├── requirements.txt # Dependencies
+ └── README.md # Project documentation
 
 5. Run the Project
 Run Model
